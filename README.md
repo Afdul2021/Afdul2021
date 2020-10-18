@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<div align="center">
+  <img height="300" src="https://i.imgur.com/aNZF8fJ.png" />
+    <strong>
+    <h1> [x] - Welcome on my GitHub Profile!</h1>
+    <strong>
+</div>
 <!--
 **Afdul2021/Afdul2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
