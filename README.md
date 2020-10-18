@@ -4,6 +4,9 @@
     <h1> [x] - Welcome on my GitHub Profile!</h1>
     <strong>
 </div>
+      
+- 🌱 I’m currently learning ... x86/x64 Assembly Language
+- 📫 How to reach me: ... Natural#7040 (Discord)
 <!--
 **Afdul2021/Afdul2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
